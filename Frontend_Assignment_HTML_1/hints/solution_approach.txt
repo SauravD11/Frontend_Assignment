@@ -1,0 +1,5 @@
+Start by creating the basic structure of the HTML document using the <html>, <head>, and <body> tags.
+Add a heading to the webpage using the <h1> tag and appropriate text.
+Use <h2> and <h3> tags to create subheadings and sub-subheadings that provide an overview of the information
+Add a few paragraphs of text using the <p> tag and appropriate text that describes the fictional person.
+Use the <img> tag to add an image of the fictional person to the webpage.

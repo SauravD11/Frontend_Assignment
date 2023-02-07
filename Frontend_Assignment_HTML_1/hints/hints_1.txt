@@ -1,0 +1,2 @@
+Use the <h1> tag for the main heading of the webpage
+Use the <h2> and <h3> tags to create subheadings and sub-subheadings

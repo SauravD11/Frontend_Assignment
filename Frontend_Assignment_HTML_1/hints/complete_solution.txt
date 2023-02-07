@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Document</title>
+    </head>
+    <body>
+    
+      <h1>Meet Mrinal Bhattacharya</h1>
+      <h2>Personal Information</h2>
+      <p>Mrinal is a 23-year-old man from Delhi</p>
+      <h3>Education</h3>
+      <p>Graduated from XYZ college</p>
+      <img src="./TestImage.jpg" alt="A photo of a man">
+        
+    </body>
+    </html>
