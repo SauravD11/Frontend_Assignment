@@ -5,12 +5,14 @@ Folder name should be the Assignment problem
 
 If base_repo has multiple files like css and js files, you can club them in a folder or list them individually as well, for e.g.
 
-css
-  style1.css
-  style2.css
-js
-  script1.js
-  script2.js
+```
+  css
+    style1.css
+    style2.css
+  js
+    script1.js
+    script2.js
+```
 
 OR
 
