@@ -16,7 +16,10 @@ If base_repo has multiple files like css and js files, you can club them in a fo
 
 OR
 
+```
 style1.css
 style2.css
 script1.js
 script2.js
+
+```
